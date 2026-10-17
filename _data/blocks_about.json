@@ -1,0 +1,8 @@
+[
+  {
+    "id": "main",
+    "nome": "Contenuto",
+    "enabled": true,
+    "html": "<p>Nomentum Immobiliare è un'agenzia immobiliare di Mentana: ci occupiamo di vendita, acquisto e affitto di case, appartamenti e ville a Mentana, Monterotondo, Fonte Nuova e Sant'Angelo Romano.</p><h2>Cosa facciamo</h2><ul><li><a href=\"__BASEURL__/servizi/valutazione-gratuita/\">Valutazione gratuita dell'immobile</a></li><li><a href=\"__BASEURL__/servizi/vendere-casa/\">Vendere casa</a></li><li><a href=\"__BASEURL__/servizi/comprare-casa/\">Comprare casa</a></li><li><a href=\"__BASEURL__/servizi/affitti-e-locazioni/\">Affitti e locazioni</a></li><li><a href=\"__BASEURL__/servizi/mutui-e-finanziamenti/\">Mutui e finanziamenti</a></li><li><a href=\"__BASEURL__/servizi/documenti-e-pratiche/\">Documenti e pratiche</a></li></ul><p>Richiedi una valutazione gratuita e senza impegno: ti rispondiamo entro 24 ore, festivi esclusi.</p>"
+  }
+]

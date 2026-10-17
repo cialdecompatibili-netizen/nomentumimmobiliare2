@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Immobili"
+    url: /progetti/
+  - title: "Servizi"
+    url: /servizi/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contatti"
+    url: /contatti/
+
