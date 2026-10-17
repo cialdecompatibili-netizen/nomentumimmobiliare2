@@ -1,10 +1,10 @@
-# nomentumimmobiliare (Nomentum Immobiliare)
+# immobiliarenomentum (Nomentum Immobiliare)
 
-Sito Jekyll per un'agenzia immobiliare a Mentana (RM) e comuni vicini (Monterotondo, Fonte Nuova, Sant'Angelo Romano). Derivato da extremefuni2ecommerce (stesso motore, admin e blocchi home).
+Sito Jekyll per un'agenzia immobiliare a Mentana (RM) e comuni vicini (Monterotondo, Fonte Nuova, Sant'Angelo Romano). Clone di nomentumimmobiliare (derivato da extremefuni2ecommerce) (stesso motore, admin e blocchi home).
 
 ## Adattamento immobiliare (stato)
 - Marchio provvisorio "Nomentum Immobiliare" (nome da Nomentum, antico nome di Mentana): da confermare/cambiare in `_config.yml`, `_includes/seo.html`, `_data/blocks_home.json`, `_pages/contatti.md`.
-- `baseurl: /nomentumimmobiliare` (anteprima locale: http://localhost:4000/nomentumimmobiliare/). Se il repo ha un altro nome, cambiarlo anche in `author.links.url`.
+- `baseurl: /immobiliarenomentum` (anteprima locale: http://localhost:4000/immobiliarenomentum/). Se il repo ha un altro nome, cambiarlo anche in `author.links.url`.
 - Collezione `_servizi` = servizi agenzia (7 schede). Collezione `_progetti` riusata come ANNUNCI IMMOBILI (menu "Immobili", permalink /progetti/): 4 schede DIMOSTRATIVE con `noindex: true`, da sostituire con annunci veri (e togliere noindex).
 - E-commerce spento (`ecommerce: false`); codice e `_negozio` restano nel repo.
 - Contatti: l'ENDPOINT del form punta ancora al worker `contatti-form.evabomboniere.workers.dev` (copiato dal sito di partenza): le richieste arriverebbero alla casella di quel worker. Va creato/configurato un worker dedicato prima della pubblicazione.

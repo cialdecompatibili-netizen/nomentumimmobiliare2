@@ -1,6 +1,6 @@
 related_posts: 3
 title: Nomentum Immobiliare
-baseurl: "/nomentumimmobiliare"
+baseurl: "/immobiliarenomentum"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
 description: "Nomentum Immobiliare: agenzia immobiliare a Mentana e dintorni. Vendita, affitto e valutazione gratuita di case, appartamenti e ville a Mentana, Monterotondo, Fonte Nuova e Sant'Angelo Romano."
@@ -16,7 +16,7 @@ author:
   links:
     - label: "Valutazione gratuita"
       icon: "fas fa-fw fa-envelope"
-      url: "/nomentumimmobiliare/contatti/"
+      url: "/immobiliarenomentum/contatti/"
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
